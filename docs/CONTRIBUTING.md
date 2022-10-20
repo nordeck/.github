@@ -16,7 +16,7 @@ We are using [`eslint`](https://eslint.org/) to avoid common problems.
 The rule set is similar in most projects, but there might be special cases.
 
 We use ADRs ([Architectual Decision Records](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)) to keep track of bigger decissions we did.
-They are placed at `/docs/adr` in each repository and might give additional guidelines.
+They are placed at `/docs/adrs` in each repository and might give additional guidelines.
 
 Testing is important for us to ensure a good quality.
 If you find bugs, or implement new features, make sure that they are covered by automated tests.
