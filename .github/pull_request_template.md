@@ -8,8 +8,8 @@
 
 <!--- Please include the following in your Pull Request when applicable: -->
 
-- [ ] A changeset describing the change and affected packages. ([more info](https://github.com/nordeck/.github/blob/main/docs/CONTRIBUTING.md#changelog-and-versioning)
-- [ ] Added or updated documentation
-- [ ] Tests for new functionality and regression tests for bug fixes
-- [ ] Screenshots or videos attached (for UI changes)
-- [ ] All your commits have a `Signed-off-by` line in the message. ([more info](https://github.com/nordeck/.github/blob/main/docs/CONTRIBUTING.md#dco))
+- [ ] A changeset describing the change and affected packages ([more info](https://github.com/nordeck/.github/blob/main/docs/CONTRIBUTING.md#changelog-and-versioning)).
+- [ ] Added or updated documentation.
+- [ ] Tests for new functionality and regression tests for bug fixes.
+- [ ] Screenshots or videos attached (for UI changes).
+- [ ] All your commits have a `Signed-off-by` line in the message ([more info](https://github.com/nordeck/.github/blob/main/docs/CONTRIBUTING.md#dco)).

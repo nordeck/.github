@@ -92,11 +92,11 @@ Changesets are not needed for changes that do not affect the published version o
 
 ### How to create a changeset
 
-1. Run `yarn changeset`
-2. Select which packages you want to include a changeset for (optional if there is only a single one)
+1. Run `yarn changeset`.
+2. Select which packages you want to include a changeset for (optional if there is only a single one).
 3. Select impact of change that you're introducing, using `major` for breaking changes, `minor` for new features, and `patch` otherwise. We use `minor` instead of `major` changes while packages are below version `1.0.0`.
-4. Explain your changes in the generated changeset, you can include screenshots too!.
-5. Add generated changeset to Git
-6. Push the commit with your changeset to the branch associated with your PR
+4. Explain your changes in the generated changeset, you can include screenshots too!
+5. Add generated changeset to Git.
+6. Push the commit with your changeset to the branch associated with your PR.
 
 For more information, checkout [adding a changeset](https://github.com/atlassian/changesets/blob/master/docs/adding-a-changeset.md) documentation in the changesets repository.

@@ -8,7 +8,10 @@ assignees: ''
 ---
 
 **Describe the bug**
-<!-- A clear and concise description of what the bug is. -->
+
+<!--
+A clear and concise description of what the bug is.
+-->
 
 **Steps To Reproduce**
 
@@ -30,7 +33,7 @@ A clear and concise description of what you expected to happen.
 
 <!--
 If applicable, add screenshots to help explain your problem.
---> 
+-->
 
 **Environment:**
  - OS: <!-- [e.g. iOS] -->
@@ -39,6 +42,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 
-<!-- 
+<!--
 Add any other context about the problem here.
 -->
