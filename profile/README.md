@@ -1,4 +1,4 @@
-# Welcome at Nordeck!
+## Welcome to Nordeck!
 
 [![Nordeck](./profile/logo.png)](https://nordeck.net)
 
