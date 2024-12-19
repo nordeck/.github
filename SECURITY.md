@@ -37,7 +37,7 @@ Nordeck does not authorize, permit, or otherwise allow (expressly or impliedly) 
 
 - Reporting parties must allow Nordeck an opportunity to correct a potential vulnerability within a reasonable timeframe before publicly disclosing the identified issue, to ensure that we have developed and thoroughly tested the solution to such issue.
 
-- Parties conducting activities under this Responsible Disclosure must comply with all federal, state, and local laws applicable with security research activities or any other activities under these Responsible Disclosure Guidelines.
+- Parties conducting activities under this Responsible Disclosure must comply with all laws applicable with security research activities or any other activities under these Responsible Disclosure Guidelines.
 
 - To the extent that any security research or vulnerability disclosure activity involves the networks, systems, information, applications, products, or services of any non-Nordeck entity, such non-Nordeck entity may independently determine whether to pursue legal action or remedies related to such activities.
 
