@@ -6,7 +6,7 @@ Our Vulnerability Disclosure Policy (VDP) establishes a clear process for report
 
 ## Scope
 
-This policy applies to to all of our open-source projects, our products delivered directly to customers and our Software-as-a-Service offerings.
+This policy applies to all of our open-source projects, our products delivered directly to customers and our Software-as-a-Service offerings.
 
 ## Reporting a Security Issue
 
